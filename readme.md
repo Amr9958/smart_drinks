@@ -88,4 +88,4 @@ This project applies **Object-Oriented Programming (OOP)** and **SOLID** princip
 
 ## 📌 Summary
 
-By applying **OOP** and **SOLID (SRP, OCP, LSP)** principles with enhanced state management, the project remains flexible, scalable, and easy to maintain. The new state transition system ensures business logic integrity while allowing easy extension for new states and validation rules, making it a robust and professional café management system.
+By applying **OOP** and **SOLID (SRP, OCP, LSP)** principles with enhanced state management, the project remains flexible, scalable, and easy to maintain. The new state transition system ensures business logic integrity while allowing easy extension for new states and validation rules, making it a robust and professional café management system.# smart_drinks
